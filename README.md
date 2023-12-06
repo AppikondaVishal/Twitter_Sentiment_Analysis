@@ -14,12 +14,12 @@ Try this awesome Real-Time Twitter Monitoring System here on Heroku server. Read
 
 ---
 
-### Inspiration
+## Inspiration
 The solution for evaluating Twitter data to perform better business decisions is to keep tracking all relevant Twitter content about a brand in real-time, perform analysis as topics or issues emerge, and detect anomaly with alert. By monitoring brand mentions on Twitter, brands could inform enagement and deliver better experiences for their customers across the world.
 
 ---
 
-### Interesting facts from exploratory data analysis
+## Interesting facts from exploratory data analysis
 - Less 0.01% users will push tweets with their locations.
 - Tweets grabbed from streaming data won't have more than 0 LIKE or RETWEET, since you have already captured them even before others press buttons :p
 - More than 65.6% users will write the locations in their profile, although very few of them don't live on Earth according to that fact.
@@ -28,7 +28,6 @@ The solution for evaluating Twitter data to perform better business decisions is
 ---
 
 ## Challenges
-
 - Unstructured tweet texts may contain messy code and emoji characters
 - Some brands may take a long time to collection enough data to perform analysis on issue emerging since they target specify groups of people
 - Some hot words will uncover useful insights only after appearing more than 10k times on tweets
